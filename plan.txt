@@ -1,0 +1,29 @@
+Website 
+----------------
+- Personal Portfolio Project
+- Add multiple pages
+
+About Me
+----------------
+- Add a description about me
+- Add generic picture
+- Add things I like to do with pictures of hikes
+
+Projects
+----------------
+- Go through 3 previous projects and create a dropdown with a screenshot of the html of each
+- Add projects that I want to look into
+
+Skills
+----------------
+- HTML
+- CSS
+- JavaScript
+
+Contact Me
+----------------
+- In the footer
+
+Github Hosting
+----------------
+- Github pages

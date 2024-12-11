@@ -1,0 +1,39 @@
+.services {
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgba(241, 241, 241);
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    padding: 15px 12% 0;
+    border: 2px solid black;
+}
+
+.services-content {
+    max-width: 800px;
+}
+
+.services-content h3 {
+    font-size: 42px;
+}
+
+.services-content h1 {
+    font-size: 62px;
+    line-height: 1.2;
+}
+
+.services-content p {
+    font-size: 18px;
+    margin: 25px 0 30px;
+}
+
+.services-content .skills a {
+    font-size: 54px;
+    color: black;
+    width: 40px;
+    height: 40px;
+    line-height: 38px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+}
