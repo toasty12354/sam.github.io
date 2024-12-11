@@ -89,7 +89,7 @@ span {
     display: flex;
     align-items: center;
     gap: 5rem;
-    padding: 12% 8%;
+    padding: 150px 12% 50px;
     border: 2px solid black;
 }
 
