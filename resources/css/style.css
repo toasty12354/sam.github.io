@@ -272,6 +272,17 @@ span {
     resize: none;
 }
 
+@media only screen and (max-width: 1125px) {
+    .contact-form form .input-box input,
+.contact-form form textarea {
+        font-size: 14px;
+    }
+    
+    .contact-form form {
+        max-width: 25rem;
+    }
+  }
+
 /* footer */
 .footer {
     position: relative;

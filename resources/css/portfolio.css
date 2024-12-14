@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: none;
+    list-style: none;
+    --min-width: 850px;
+}
+
+:root {
+    --highlight-color: rgb(148, 214, 183);
+    --min-width: 850px;
+}
+
+/* main */
+
+.portfolio {
+    width: 100%;
+    background-color: rgba(241, 241, 241);
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    padding: 150px 2rem 2rem 50px;
+    border: 2px solid black;
+}
+
+.portfolio-content {
+    max-width: 90%;
+}
+
+.portfolio-content h3 {
+    font-size: 42px;
+    
+}
+
+.portfolio-projects {
+    display: grid;
+    grid: repeat(2, 0.5fr) / repeat(2, 0.5fr); 
+    grid-auto-rows: 0.5fr;
+    text-align: center;
+    gap: 0.5rem;
+}
+
+.portfolio-projects * {
+    padding: 3rem;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+@media only screen and (max-width: 1125px) {
+  }
