@@ -248,6 +248,7 @@ span {
 }
 
 .contact-form form {
+    height: auto;;
     max-width: 50rem;
     margin: 1rem auto;
     text-align: center;
